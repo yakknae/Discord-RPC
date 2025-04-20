@@ -17,23 +17,17 @@ Before running the program, ensure you have the following installed:
 
 ## Installation
 
-1. Clone the Repository
-   Clone this repository to your local machine using the following command:
-
-   > git clone https://github.com/your-username/your-repo-name.git
-   > cd your-repo-name
-
-2. Install Dependencies
+1. Install Dependencies
    Install the required dependencies by running:
 
    > pip install -r requirements.txt
 
-3. Navigate to the App Directory
+2. Navigate to the App Directory
    Move into the app folder where the main application is located:
 
    > cd app
 
-4. Run the Program
+3. Run the Program
    Start the application by executing the following command:
    > python main.py
 
