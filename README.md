@@ -2,6 +2,8 @@
 
 This project implements a lightweight Discord Rich Presence integration to display real-time status updates on your Discord profile.
 
+![Preview](app/assets/hh.png)
+
 ## Features
 
 - Displays dynamic information such as current activity, timestamps, and custom details.
